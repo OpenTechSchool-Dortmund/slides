@@ -1,16 +1,13 @@
 .talk {
 	padding: 0 0 20px 0;
 }
-
 .talk h6 {
 	font-size: 1.2em;
 	font-weight: bold;
 }
-
 .talk p {
 	color: darkgray;
 }
-
 .talk img {
 	float: left;
 	max-height: 100px;
