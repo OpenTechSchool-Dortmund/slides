@@ -1,5 +1,5 @@
 .talk {
-	
+	padding: 0 0 20px 0;
 }
 
 .talk h6 {
@@ -9,4 +9,11 @@
 
 .talk p {
 	color: darkgray;
+}
+
+.talk img {
+	float: left;
+	max-height: 100px;
+	max-width: 100px;
+	padding: 0 20px 0 0;
 }
