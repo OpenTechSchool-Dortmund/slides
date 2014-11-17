@@ -2,6 +2,11 @@
 
 ---
 
+Presentation for the learner Meetup Dortmund
+http://opentechschool-dortmund.github.io/slides/presentations/learner-meetup-dortmund/
+
+---
+
 Browser-based presentation template to be used for OTS presentations. 
 Built upon Shower by Vadim Makeev: https://github.com/pepelsbey/shower
 
