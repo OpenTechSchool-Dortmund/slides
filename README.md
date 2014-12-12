@@ -33,6 +33,7 @@ Follow [shower_me](http://twitter.com/shower_me/) on Twitter for updates.
 
 ## Supported Browsers
 
+
 * Desktop platforms: Chrome, Firefox, Opera, Safari
 
 Only latest stable versions of mentioned browsers are supported.
